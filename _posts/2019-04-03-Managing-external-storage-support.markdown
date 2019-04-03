@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Managing external storage support"
 date:   2019-04-03 12:24:47 +0530
 categories: jekyll update
@@ -23,7 +23,7 @@ You can create and add new external storage mount; however, all the external sto
 
 	| Field Name	| Description								|
 	| ------------- | ----------------------------------------- |
-	| Folder Name	| Enter the folder name.\n	**Note:** Folder name does not accept alphanumeric characters. 				|				 
+	| Folder Name	| Enter the folder name.-	**Note:** Folder name does not accept alphanumeric characters. 				|				 
 	| 				 |aJAT aSHI							        |
 
 		|**Note:** Folder name does not accept alphanumeric characters.

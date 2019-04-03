@@ -1,3 +1,9 @@
+---
+layout: default
+title:  "Configuring Storage"
+nav_order: 3
+---
+
 ## Configuring Storage
 
 You can create and add new external storage mount; however, all the external storage must be first configured in the application.

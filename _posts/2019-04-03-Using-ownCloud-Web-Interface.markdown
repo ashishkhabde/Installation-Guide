@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Using ownCloud Web Interface"
-date:   2019-04-03 12:24:47 +0530
-categories: jekyll update
+nav_order: 5
 ---
 
 # Using ownCloud Web Interface

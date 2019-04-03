@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title:  "Introduction"
-date:   2019-04-03 12:24:47 +0530
-categories: jekyll update
+nav_order: 1
 ---
 # Introduction
 
